@@ -1,0 +1,12 @@
+[public | private | protected | global] [override] [static] data_type method_name (input parameters)
+
+{
+	//The boby of the method
+}
+
+// Modifiers: public, private, protected and global
+
+// void = method does not return a value
+
+
+
