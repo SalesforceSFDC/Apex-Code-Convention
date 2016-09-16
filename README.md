@@ -19,4 +19,4 @@ by the official [Java Coding Convention](http://www.oracle.com/technetwork/java/
 Some of the rules have been copied verbatim from this document.
 
 **Note**: If you have any suggestions or improvements, feel free to fork this project, or create an issue, or email me 
-      anup[dot]jadhav[at]gmail.com.
+     vukdukic[at]gmail.com.
